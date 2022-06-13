@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hack-Mav
+- 👋 Hi, I’m Parthiv Rawat
 - 👀 I’m interested in the projects related to HTML, CSS & JavaScript. 
 - 🌱 I’m currently learning C++ language, I already know C language so learning a new language is very handful.
 - 💞️ I’m looking to collaborate on projects related to Machine Learning and Artificial Intelligence.
