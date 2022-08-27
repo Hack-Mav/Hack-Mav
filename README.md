@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Parthiv Rawat
 - 👀 I’m interested in the projects related to HTML, CSS & JavaScript. 
-- 🌱 I’m currently learning C++ language, I already know C language so learning a new language is very handful.
-- 💞️ I’m looking to collaborate on projects related to Machine Learning and Artificial Intelligence.
+- 🌱 I’m currently learning React.JS , I already know C++, Java language so learning a new language is very handful.
+- 💞️ I’m looking to collaborate on projects related to Web Development and Software Development.
 - 📫 To reach me you can mail me on 2018176@iiitdmj.ac.in
 
 <!---
