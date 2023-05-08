@@ -1,15 +1,15 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Parthiv Rawat</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.inventateq.com/assets/python/small.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hack-mav&label=Profile%20views&color=0e75b6&style=flat" alt="hack-mav" /> </p>
 
-- 🔭 I’m currently working on **Ansible**
+- 🔭 I’m currently working on **VS Code**
 
-- 🌱 I’m currently learning **Spring Boot,**
+- 🌱 I’m currently learning **Spring Boot, Kafka**
 
-- 💬 Ask me about **MEARN, Django**
+- 💬 Ask me about **MEARN, Django, React**
 
 - 📫 How to reach me **parthiv05022000@gmail.com**
 
