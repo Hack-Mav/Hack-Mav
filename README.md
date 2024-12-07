@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hack-mav&label=Profile%20views&color=0e75b6&style=flat" alt="hack-mav" /> </p>
 
-- 🔭 I’m currently working on **VS Code**
+- 🔭 I’m currently working on **Decentralized Crowdfunding Platform**
 
-- 🌱 I’m currently learning **Spring Boot, Kafka**
+- 🌱 I’m currently learning **AWS, Ethereum Blockchain**
 
-- 💬 Ask me about **MEARN, Django, React**
+- 💬 Ask me about **MEARN, Golang, React**
 
 - 📫 How to reach me **parthiv05022000@gmail.com**
 
